@@ -1,0 +1,185 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20ANTV.png",ANTV
+http://210.210.155.35:80/qwr9ew/s/s07/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Al%20Iman.png",Al Iman
+http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Berita%20Satu.png",Berita Satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20CNBC%20Indonesia.png",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20CNN%20Indonesia.png",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20DAAI.png",DAAI
+http://210.210.155.35/qwr9ew/s/s13/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Global%20TV.png",Global TV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Indosiar.png",Indosiar
+http://210.210.155.35:80/qwr9ew/s/s04/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Kompas.png",Kompas TV
+http://210.210.155.35:80/qwr9ew/s/s104/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Metro%20TV.png",Metro TV
+http://210.210.155.35:80/uq2663/h/h12/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20MNC%20TV.png",MNC TV
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20NET.png",NET
+http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20RCTI.png",RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Rodja%20TV.png",Rodja TV
+http://rr2.dens.tv/s/s14/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20RTV.png",RTV
+http://210.210.155.35:80/qwr9ew/s/s12/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20SCTV.png",SCTV
+http://210.210.155.35:80/qwr9ew/s/s03/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Trans%207.png",Trans 7
+http://210.210.155.35:80/qwr9ew/s/s101/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Trans%20TV.png",Trans TV
+http://210.210.155.35:80/x6bnqe/s/s252/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20TV%20One.png",TV One
+http://210.210.155.35:80/qwr9ew/s/s105/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20TVRI%20Sport.png",TVRI Sport
+http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20TVRI.png",TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Spacetoon.png",Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Life.png",FOX Life
+https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Movies.png",FOX Movies
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Sports.png",FOX Sports
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Sport%20News.png",Fox Sport News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20HBO.png",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20HBO%20Family.png",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20HBO%20Hits.png",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20HBO%20Signature.png",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/News_Logo/main/bg%20ABC%20News.png",ABC News
+http://176.31.74.164:8081/abcnewslive/abcnews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/News_Logo/main/bg%20Aljazeera.png",Aljazeera
+http://210.210.155.35/session/f1a22d04-f3de-11e8-b90e-997d9209e1ea/qwr9ew/s/s17/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/News_Logo/main/bg%20BBC%20Earth.png",BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/News_Logo/main/bg%20BBC%20World%20News.png",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/News_Logo/main/bg%20Bloomberg.png",Bloomberg
+http://45.126.83.51/uq2663/h/h03/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/News_Logo/main/bg%20CGTN.png",CGTN
+http://live.cgtn.com/500/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/News_Logo/main/bg%20CNA.png",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/News_Logo/main/bg%20DW%20English.png",DW English
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/News_Logo/main/bg%20DW.png",DW
+http://210.210.155.35/session/de566102-7b7a-11e8-aa50-c81f66f89318/qwr9ew/s/s26/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/News_Logo/main/bg%20France%2024.png",France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/News_Logo/main/bg%20NHK%20World%20Japan.png",NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Premium_Logo/main/bg%20%26Prive%20HD.png",&Prive HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Premium_Logo/main/bg%20AXN.png",AXN
+http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Premium_Logo/main/bg%20Asian%20Food%20Channel.png",Asian Food Network
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Premium_Logo/main/bg%20Animal%20Planet.png",Animal Planet
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Premium_Logo/main/bg%20Celestial%20Movies.png",Celestial Movies
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Premium_Logo/main/bg%20Cinemax.png",Cinemax
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Premium_Logo/main/bg%20Cinemaworld.png",Cinemaworld
+http://210.210.155.35/uq2663/h/h04/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Premium_Logo/main/bg%20Flix.png",Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Premium_Logo/main/bg%20Hits.png",Hits
+http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Premium_Logo/main/bg%20Kix.png",Kix
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Premium_Logo/main/bg%20National%20Geograpic.png",Nat Geo
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Premium_Logo/main/bg%20Paramount.png",Paramount
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Premium_Logo/main/bg%20Thrill.png",Thrill
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Kuduk/main/Pure%20IPTV.png",K+
+http://rr.dens.tv/h/h08/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Kuduk/main/Pure%20IPTV.png",K Drama
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Kuduk/main/Pure%20IPTV.png",Redbull
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Kuduk/main/Pure%20IPTV.png",Sony Gem
+http://45.126.83.51/uq2663/h/h19/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Kuduk/main/Pure%20IPTV.png",Sony One
+http://210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Kuduk/main/Pure%20IPTV.png",Animax
+http://210.210.155.35/dr9445/h/h144/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Kuduk/main/Pure%20IPTV.png",Aniplus
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+
