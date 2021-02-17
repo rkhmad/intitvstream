@@ -24,6 +24,13 @@ https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Indosiar.png",Indosiar
 http://210.210.155.35:80/qwr9ew/s/s04/02.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Indosiar.png",iNews
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Indosiar.png",Sinema Indonesia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Indosiar.png", Sinema Indonesia X
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Indosiar.png", U Channel
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Kompas.png",Kompas TV
 http://210.210.155.35:80/qwr9ew/s/s104/02.m3u8
 
@@ -64,7 +71,7 @@ http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Spacetoon.png",Spacetoon
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+http://103.55.39.182/~dusktil2/a.m3u8?q=spacetoon
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Life.png",FOX Life
 http://iptvtree.net:8080/Line1051/f4fffd47/165083
@@ -72,11 +79,20 @@ http://iptvtree.net:8080/Line1051/f4fffd47/165083
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Movies.png",FOX Movies
 http://iptvtree.net:8080/Line1051/f4fffd47/165078
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Movies.png",FOX Action Movies
+http://iptvtree.net:8080/Line1051/f4fffd47/157608
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Movies.png",FOX Crime
+http://iptvtree.net:8080/Line1051/f4fffd47/165076
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Sports.png",FOX Sports
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Sport%20News.png",Fox Sport News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20HBO%20Max.png",HBO Max
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20HBO.png",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
