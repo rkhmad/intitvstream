@@ -13,13 +13,13 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Global%20TV.png",Global TV
-https://etslive-2-vidio-com.akamaized.net/exp=1613601011~acl=/hls-p/ingest_778_*/*~hmac=262b27205e29817dbd8a45649aa96d2aedf10aa4ffc9a629f35fe2db74861fd0/hls-p/ingest_778_360p/index.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Indosiar.png",Indosiar
 http://210.210.155.35:80/qwr9ew/s/s04/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20iNews.png",iNews
-https://etslive-2-vidio-com.akamaized.net/exp=1613601007~acl=/hls-p/ingest_5409_*/*~hmac=97b9df47de6f0671aa4bae47727c57ca3eb0542e5b07bcc382fe851436fa1ef4/hls-p/ingest_5409_360p/index.m3u8
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Sinema%20Indonesia.png",Sinema Indonesia
 http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia
@@ -31,13 +31,13 @@ http://210.210.155.35:80/qwr9ew/s/s104/02.m3u8
 http://210.210.155.35:80/uq2663/h/h12/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20MNC%20TV.png",MNC TV
-https://etslive-2-vidio-com.akamaized.net/exp=1613601010~acl=/hls-p/ingest_870_*/*~hmac=7a86d1651be3d145db519db7b5b7500473c692cd556a524bedf909ff7623b917/hls-p/ingest_870_360p/index.m3u8
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20NET.png",NET
 http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20RCTI.png",RCTI
-https://etslive-2-vidio-com.akamaized.net/exp=1613601010~acl=/hls-b/ingest_665_*/*~hmac=03baf32ac3452544e318fbd4dcac361ebe8c750cc9375e11ef5c062696583e1a/hls-b/ingest_665_480p/index.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20RTV.png",RTV
 http://210.210.155.35:80/qwr9ew/s/s12/02.m3u8
