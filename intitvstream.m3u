@@ -27,13 +27,13 @@ http://210.210.155.35:80/qwr9ew/s/s04/02.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Indosiar.png",iNews
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Indosiar.png",Sinema Indonesia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Sinema%20Indonesia.png",Sinema Indonesia
 http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Indosiar.png", Sinema Indonesia X
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Sinema%20Indonesia%20X.png", Sinema Indonesia X
 http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia-x
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Indosiar.png", U Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20U%20Channel.png", U Channel
 http://210.210.155.35:80/qwr9ew/s/s41/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Kompas.png",Kompas TV
@@ -78,16 +78,19 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Spacetoon.png",Spacetoon
 http://103.55.39.182/~dusktil2/a.m3u8?q=spacetoon
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX.png",FOX
+http://iptvtree.net:8080/Line1051/f4fffd47/165080
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Life.png",FOX Life
 http://iptvtree.net:8080/Line1051/f4fffd47/165083
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Movies.png",FOX Movies
 http://iptvtree.net:8080/Line1051/f4fffd47/165078
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Movies.png",FOX Action Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Action%20Movies.png",FOX Action Movies
 http://iptvtree.net:8080/Line1051/f4fffd47/157608
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Movies.png",FOX Crime
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Crime.png",FOX Crime
 http://iptvtree.net:8080/Line1051/f4fffd47/165076
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Sports.png",FOX Sports
