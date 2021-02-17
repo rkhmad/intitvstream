@@ -28,8 +28,13 @@ http://210.210.155.35:80/qwr9ew/s/s04/02.m3u8
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Indosiar.png",Sinema Indonesia
+http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Indosiar.png", Sinema Indonesia X
+http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia-x
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Indosiar.png", U Channel
+http://210.210.155.35:80/qwr9ew/s/s41/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Kompas.png",Kompas TV
 http://210.210.155.35:80/qwr9ew/s/s104/02.m3u8
