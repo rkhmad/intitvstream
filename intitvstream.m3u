@@ -63,6 +63,21 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Premium_Logo/main/bg%20My%20Cinema.png",My Cinema
 http://rr.dens.tv/h/h90/S4/mnf.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX.png",FOX
+http://iptvtree.net:8080/Line1051/f4fffd47/165080
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Life.png",FOX Life
+http://iptvtree.net:8080/Line1051/f4fffd47/165083
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Action%20Movies.png",FOX Action Movies
+http://iptvtree.net:8080/Line1051/f4fffd47/157608
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Crime.png",FOX Crime
+http://iptvtree.net:8080/Line1051/f4fffd47/165076
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Movies.png",FOX Movies
+http://iptvtree.net:8080/Line1051/f4fffd47/165078
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Sports.png",FOX Sports
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 
