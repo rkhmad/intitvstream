@@ -21,8 +21,8 @@ http://210.210.155.35:80/qwr9ew/s/s04/02.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20iNews.png",iNews
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Sinema%20Indonesia.png",Sinema Indonesia
-http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Premium_Logo/main/blank%20spot.png",Bein Sport
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Kompas.png",Kompas TV
 http://210.210.155.35:80/qwr9ew/s/s104/02.m3u8
@@ -62,21 +62,6 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Spacetoon.png",Spacetoon
 http://103.55.39.182/~dusktil2/a.m3u8?q=spacetoon
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX.png",FOX
-http://50.7.161.82:8278/streams/d/Foxhd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Life.png",FOX Life
-http://50.7.161.82:8278/streams/d/Foxlife/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Movies.png",FOX Movies
-https://gratismkctv.net/film/foxmovies.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Action%20Movies.png",FOX Action Movies
-https://gratismkctv.net/film/foxactionmovies.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Crime.png",FOX Crime
-http://50.7.161.82:8278/streams/d/Foxcrime/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20FOX%20Sports.png",FOX Sports
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
