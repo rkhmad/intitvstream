@@ -13,13 +13,13 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Global%20TV.png",Global TV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Indosiar.png",Indosiar
 http://210.210.155.35:80/qwr9ew/s/s04/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20iNews.png",iNews
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Sinema%20Indonesia.png",Sinema Indonesia
 http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia
@@ -31,7 +31,7 @@ http://210.210.155.35:80/qwr9ew/s/s104/02.m3u8
 http://210.210.155.35:80/uq2663/h/h12/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20MNC%20TV.png",MNC TV
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20NET.png",NET
 http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8
@@ -85,19 +85,19 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20HBO.png",HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSEJPLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTM2NTQ2MDh9fX1dfQ__&Signature=lmrAsJ3zKEIKKpUyIILMRo6T18w1trUJLBrDL53N7uKwO-SMiRByUwKJq6UrO98jUzepqpsyE8lwhx5c~0Gpeit4d~Vv7BFH9zx6CwapwXSxScm5QoiqAPCH0qa2EzMWT2SvPq2PJLoNDuz9zGde4Z0Fow5k2nuCTAojVahpEoVObPAZ8XhaYtvjFYdQicBrv90-GcmU2Fj7LsAyoZDEerYYqc2licappxQ1~KdeiQg9vowkMXketsgiwlhIJETH4CCEiJQolMyETTwASQjphY63H1dW~kPHpjfWZB1a4bLMkoK9YxFModGOnH6MPC7fWW3Mwb7RNjTp1R6MQnH2XA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20HBO%20Family.png",HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vRkFNSUxZLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTM2NTQ2MDh9fX1dfQ__&Signature=LkIexVDQNqAu2lFtrlEDoy3FefU1DEti4l8QAsrxDg9N8HbNJRohe9Nzc90c8RPJmuYD4006P6mtYcPukDTWCVS34BLb5hQ~ILJ7lMmprIum31AqTFuliwvj6Kh8vG1Xjzl6PGXgBxou6KM-FK3CsXP1r2h8TFrLSMx-BlSuiyzCVTGLZ8~hKOk9xQ9kioiWXrePpENNm7IjhYq2itiNRqmHev31HiCVcOfJ8uILHEpsHezEetbhNhWfepO9K2LZ5vceGq1E-ILIDH1iYdTEhX4~SMHOFwrCRZnS2aGKIXbaiuSDml3yitK64jwK9Jc3w5tVW4eTfVMwQT51ge1x8g__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20HBO%20Hits.png",HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSElUUy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjEzNjU0NjA4fX19XX0_&Signature=EJ4M5xP3OcrsDjbniZ1iZWTvA9oU-uWr0gVoBM5-SJ2zVvdAxaNBqkvp1untHM7gn5N16FqNW2-DTjqeoqqv5oANSxVFHJIB6~w0yyJkty9gIZwwoRfrHZd0cqX~EGfQOY43OvJx5BswIfUczRPHzT7-pw-uBNVAkKt9FqAiexgBaM3~7sWkba7KrlCU565Oz65tja7dMmJUihwxfXcKPuKGcM7T5nTxYstV2YEjU~k3pwyFhurkXOVZDM6ZIkJAhtifIBPGuiaALaW-UrIrtMb7bWVhTFfDtFgJejFDtvAqgceHStOFefsajr5DHMs5aO-yBMzyRzdxFquYYxJ1zw__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Logo_Channels/main/bg%20HBO%20Signature.png",HBO Signature
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vU0lHLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTM2NTQ2MDh9fX1dfQ__&Signature=YeoK0J2Yo4tcCl-V1F25qNBqLwCLxFoqvugfjjtMryO-S7aEy-hL-n2ym0YLSAkLMnhfN3N3oI6Ei7PXNMxnBFCXz8oFRZiW6GFyS~k~AFi9a67b0ACLk95Nx-y0sj3LwCP4x4KaGJN9mUW4Pew0mUs~iIwBrgvkbiW82qUMFjXBO2vKpVWBCLcJijQzSO61W9vlQIq7~-5DZ1TiGr8oD8HXpRn-cpoiMt29neLe2Qf0-TH0jDWZtN-yx1NLqz~kNTn4cftN7bVcokOrUThbnxrqLZCRLy5~AtVz~Tgv5SUXgv0lGX5wU3jP-Y3qJVttbjYKkIJpNcAoH8JF844ybQ__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Premium_Logo/main/bg%20Cinemax.png",Cinemax
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vTUFYLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTM2NTQ2MDh9fX1dfQ__&Signature=MzNvovSMzlkB~FSFIEhxXhB~Jx2fbMneI9g1S~UbkcxfGL3bV5BdrKa5-7wKBQ-RCTrKez-UoS2o-HekCOW37hcg9IXZXxD55oSq6rxUk5WnTJ4gPMOBQq4mYLccHkJqC-bEBaTOLmSPDiqEe-KwP2ygrwO5-J2~8BbPz3XxaxSK4c6oyAq34dNbbgbtFiTkzDf9~jJq8~X27pufTh-iTeOBjsgOfz0ogRHj-THtAMWvplera4txWbC1JACRPL6~u5OhDzcfrovOeAzV7O0CaPQWX3c-yzCW7BVaOGK9QCnah1GIfHvwlSSSiZCNyU-Jd0FqYleOS~M6L0~V0DYPaA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/News_Logo/main/bg%20CNA.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
