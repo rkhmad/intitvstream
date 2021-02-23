@@ -31,7 +31,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20MNC%20TV.png",MNC TV
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=22fb0cee7e1f3bde58293de743871417102a6ed6587b5b8cb4ebbe972864690b
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20NET.png",NET
 http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8
