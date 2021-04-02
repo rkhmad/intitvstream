@@ -1,22 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Kuduk/main/Pure%20IPTV.png",Pengumuman
-https://github.com/anuryanatv/server-maintenance/blob/main/server%20maintenance%202.mp4?raw=true
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20ANTV.png",ANTV
 http://210.210.155.35/session/0f9e2aba-c5ea-11e8-a5d9-c81f66f89318/qwr9ew/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20Berita%20Satu.png",Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Premium_Logo/main/bg%20Biznet%20Adventure.png",Biznet Adventure
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Premium_Logo/main/bg%20Biznet%20Kids.png",Biznet Kids
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Premium_Logo/main/bg%20Biznet%20Lifstyle.png",Biznet Lifestyle
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20CNBC%20Indonesia.png",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
@@ -41,3 +29,24 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Nasional_Logo_Channel/main/bg%20TVRI.png",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/News_Logo/main/bg%20CNA.png",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/News_Logo/main/bg%20Bloomberg.png",Bloomberg
+http://45.126.83.51/uq2663/h/h03/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Premium_Logo/main/bg%20Cinemaworld.png",Cinemaworld
+http://210.210.155.35/uq2663/h/h04/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Premium_Logo/main/bg%20K%20Drama.png",K Drama
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20%26Prive%20HD.png",&Prive
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Animax.png",Animax
+http://210.210.155.35/dr9445/h/h144/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Arirang.png",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
