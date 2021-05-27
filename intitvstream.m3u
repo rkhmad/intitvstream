@@ -62,3 +62,30 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20TVRI.png",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Animax.png",Animax
+https://nonton.site:8443/provision/pp/3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Aniplus.png",Aniplus
+https://nonton.site:8443/provision/pp/2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Baby%20First.png",Baby First
+https://nonton.site:8443/provision/pp/1204
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Cartoon%20Network.png",Cartoon Network
+https://nonton.site:8443/provision/pp/680
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Disney%20Channel.png",Disney Channel
+https://nonton.site:8443/provision/pp/3479
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Disney%20Jr.png",Disney Junior
+https://nonton.site:8443/provision/pp/213
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Dreamworks.png",Dream Works
+https://nonton.site:8443/provision/pp/32529
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Nick%20Jr.png",Nick Jr
+https://nonton.site:8443/provision/pp/522
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Nick.png",Nickelodeon
+https://nonton.site:8443/provision/pp/962
