@@ -1,42 +1,51 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20ANTV.png" group-tittle="LOKAL",ANTV
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20ANTV.png" group-title="LOKAL",ANTV
 http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 
-#EXTINF:-1 tvg-name="Global TV" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Global%20TV.png" group-tittle="LOKAL",Global TV
-https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-name="Global TV (FTA)" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Global%20TV.png" group-title="LOKAL",Global TV
+https://liveanevia.mncnow.id/live/eds/GTV-Perjuangan/sa_hls/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GTV (Vision)" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Global%20TV.png" group-title="Lokal",GTV (Vision)
+https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
 
 #EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Indosiar.png",Indosiar
 http://210.210.155.35:80/qwr9ew/s/s04/02.m3u8
 
-#EXTINF:-1 tvg-name="Kompas TV" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Kompas.png" group-tittle="LOKAL",Kompas TV
+#EXTINF:-1 tvg-name="Kompas TV" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Kompas.png" group-title="LOKAL",Kompas TV
 http://210.210.155.35/qwr9ew/s/s104/01.m3u8
 
-#EXTINF:-1 tvg-name="MNC TV"tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20MNC%20TV.png" group-tittle="LOKAL",MNC TV
-https://cdn4.mbahnunungonline.net/m3u8/d9bbf6929ec1028.m3u8
+#EXTINF:-1 tvg-name="MNC TV (FTA)"tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20MNC%20TV.png" group-title="LOKAL",MNC TV
+https://liveanevia.mncnow.id/live/eds/MNCTV-Merdeka/sa_hls/index.m3u8
 
-#EXTINF:-1 tvg-name="NET TV"tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20NET.png" group-tittle="LOKAL",NET
+#EXTINF:-1 tvg-id="" tvg-name="MNCTV (Vision)" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20MNC%20TV.png" group-title="Lokal",MNCTV (Vision)
+https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
+
+#EXTINF:-1 tvg-name="NET TV"tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20NET.png" group-title="LOKAL",NET
 http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s08/01.m3u8
 
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20RCTI.png" group-tittle="LOKAL",RCTI
-https://cdn4.mbahnunungonline.net/m3u8/7cb6654ebec98b7.m3u8
+#EXTINF:-1 tvg-name="RCTI (FTA)" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20RCTI.png" group-title="LOKAL",RCTI
+https://cdn-livetv-studio.metube.id/rcti_480/index.m3u8
 
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20SCTV.png" group-tittle="LOKAL",SCTV
+#EXTINF:-1 tvg-id="" tvg-name="RCTI (Vision)" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20RCTI.png" group-title="Lokal",RCTI (Vision)
+https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
+
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20SCTV.png" group-title="LOKAL",SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/02.m3u8
 
-#EXTINF:-1 tvg-name="Trans7" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Trans%207.png" group-tittle="LOKAL",Trans 7
+#EXTINF:-1 tvg-name="Trans7" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Trans%207.png" group-title="LOKAL",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-name="Trans TV" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Trans%20TV.png" group-tittle="LOKAL",Trans TV
+#EXTINF:-1 tvg-name="Trans TV" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Trans%20TV.png" group-title="LOKAL",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV One" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20TV%20One.png" group-tittle="LOKAL",TV One
+#EXTINF:-1 tvg-name="TV One" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20TV%20One.png" group-title="LOKAL",TV One
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1 tvg-name="INews" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20iNews.png",iNews
 http://gpc.my.id/vidio/inews.m3u8
 
-#EXTINF:-1 tvg-name="TVRI" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20TVRI.png" group-tittle="LOKAL",TVRI
+#EXTINF:-1 tvg-name="TVRI" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20TVRI.png" group-title="LOKAL",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-name="TVRI Sport" tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20TVRI%20Sport.png",TVRI Sport
